@@ -32,5 +32,5 @@ import streamlit as st  # for web app
 
 ## Contact
 
-- Email: <mailto:arvindvenkat1701ad@gmail.com>
-- [Linkedin](linkedin.com/in/arvind-venkateshwaran-97973423a)
+- Email: <arvindvenkat1701ad@gmail.com>
+- [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/myprofile](https://www.linkedin.com/in/arvind-venkateshwaran-97973423a/)https://www.linkedin.com/in/arvind-venkateshwaran-97973423a/)
