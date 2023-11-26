@@ -13,13 +13,13 @@ Collecting YouTube data using google API and storing the data in MongoDB(NoSQL) 
 
 ## Libraries/Packages used
 
-'''python
+```python
 from googleapiclient.discovery import build  # for youtube api
 import pymongo  # for mongoDB
 import psycopg2  # for postgresSQL
 import pandas as pd  # for DataFrame
 import streamlit as st  # for web app
-'''
+```
 
 ## Technology Stack Used
 
