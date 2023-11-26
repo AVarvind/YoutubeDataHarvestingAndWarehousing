@@ -33,6 +33,5 @@ import streamlit as st  # for web app
 ## Contact
 
 - Email: <arvindvenkat1701ad@gmail.com>
-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [linkedin] :https://www.linkedin.com/in/arvind-venkateshwaran-97973423a/
+- Linkedin :https://www.linkedin.com/in/arvind-venkateshwaran-97973423a/
 - 
