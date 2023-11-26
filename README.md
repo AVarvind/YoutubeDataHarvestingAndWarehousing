@@ -32,6 +32,6 @@ import streamlit as st  # for web app
 
 ## Contact
 
-- Email: <arvindvenkat1701ad@gmail.com>
-- Linkedin :https://www.linkedin.com/in/arvind-venkateshwaran-97973423a/
+- Email:<arvindvenkat1701ad@gmail.com>
+- Linkedin:https://www.linkedin.com/in/arvind-venkateshwaran-97973423a/
 - 
