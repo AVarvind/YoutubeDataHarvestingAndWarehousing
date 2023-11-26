@@ -27,5 +27,4 @@ Collecting YouTube data using google API and storing the data in MongoDB(NoSQL) 
 ## Contact
 
 - Email: arvindvenkat1701ad@gmail.com
-- Linkedin: linkedin.com/in/arvind-venkateshwaran-97973423a
-
+- [Linkedin](linkedin.com/in/arvind-venkateshwaran-97973423a)
