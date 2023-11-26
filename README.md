@@ -13,7 +13,8 @@ Collecting YouTube data using google API and storing the data in MongoDB(NoSQL) 
 
 ## Libraries/Packages used
 
-![image](https://github.com/AVarvind/YoutubeDataHarvestingAndWarehousing/assets/152069187/c74f3dd8-f2a6-4f1d-8ec3-5d51c4e296c2)
+![image](https://github.com/AVarvind/YoutubeDataHarvestingAndWarehousing/assets/152069187/8c0876fd-d8ab-4466-85e6-d6556d71b89f)
+
 
 ## Technology Stack Used
 
