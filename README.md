@@ -34,4 +34,3 @@ import streamlit as st  # for web app
 
 - Email:<arvindvenkat1701ad@gmail.com>
 - Linkedin:https://www.linkedin.com/in/arvind-venkateshwaran-97973423a/
-- 
