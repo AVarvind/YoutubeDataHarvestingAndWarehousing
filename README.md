@@ -33,4 +33,6 @@ import streamlit as st  # for web app
 ## Contact
 
 - Email:<arvindvenkat1701ad@gmail.com>
-- Linkedin:https://www.linkedin.com/in/arvind-venkateshwaran-97973423a/
+- Linkedin:[https://www.linkedin.com/in/arvind-venkateshwaran-97973423a/](https://www.linkedin.com/posts/arvind-venkateshwaran-97973423a_guvi-iitmadras-python-activity-7137096360717144064-YJSS?utm_source=share&utm_medium=member_desktop)
+
+  
